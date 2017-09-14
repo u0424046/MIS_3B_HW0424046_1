@@ -8,4 +8,4 @@
 
 ![](doomfist.jpg)
 
-[![My name is JohnCENA](https://img.youtube.com/vi/watch?v=4QCm__n5oko/0.jpg)](https://www.youtube.com/watch?v=4QCm__n5oko)
+[![My name is JohnCENA](https://img.youtube.com/vi/watch?v=4QCm__n5oko/default.jpg)](https://www.youtube.com/watch?v=4QCm__n5oko)
